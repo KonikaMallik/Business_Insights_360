@@ -78,4 +78,6 @@ As the database is MySQL in this project, we need to import the datasets from My
 ![image](https://github.com/KonikaMallik/Business_Insights_360/assets/78590686/b8d0cd1e-6cca-4272-a1ea-f801247595d0)
 
 
+**Live Interactive Dashboard**
 
+https://app.powerbi.com/view?r=eyJrIjoiMjhlODEyZTgtOTlhOS00NWNkLTk5NjYtMWQ4YWUyNjEwMGRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
